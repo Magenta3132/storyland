@@ -1,0 +1,6 @@
+
+{
+  "Name": "butcher",
+  "Registry ID": "dead_guys_pork_and_more_pork:butcher",
+  "Class": "net.mcreator.dead_guys_pork_and_more_pork.entity.EntityButcher.EntityCustom"
+}

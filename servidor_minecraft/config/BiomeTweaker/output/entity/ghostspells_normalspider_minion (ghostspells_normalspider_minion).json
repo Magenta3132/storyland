@@ -1,0 +1,6 @@
+
+{
+  "Name": "ghostspells:normalspider_minion",
+  "Registry ID": "ghostspells:normalspider_minion",
+  "Class": "com.ghostrider231.ghostspells.entity.living.EntityNormalSpiderMinion"
+}
